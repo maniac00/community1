@@ -1,0 +1,130 @@
+{
+  "_args": [
+    [
+      "strapi-admin@3.0.0-alpha.25.2",
+      "/usr/local/lib/node_modules/strapi/node_modules/strapi-generate-admin"
+    ]
+  ],
+  "_from": "strapi-admin@3.0.0-alpha.25.2",
+  "_hasShrinkwrap": false,
+  "_id": "strapi-admin@3.0.0-alpha.25.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/strapi/strapi-admin",
+  "_nodeVersion": "10.14.2",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/strapi-admin_3.0.0-alpha.25.2_1552689453395_0.42484100551802984"
+  },
+  "_npmUser": {
+    "email": "j.laurie6993@gmail.com",
+    "name": "lauriejim"
+  },
+  "_npmVersion": "6.4.1",
+  "_phantomChildren": {
+    "glob": "7.1.3",
+    "interpret": "1.2.0",
+    "rechoir": "0.6.2"
+  },
+  "_requested": {
+    "name": "strapi-admin",
+    "raw": "strapi-admin@3.0.0-alpha.25.2",
+    "rawSpec": "3.0.0-alpha.25.2",
+    "scope": null,
+    "spec": "3.0.0-alpha.25.2",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/strapi/strapi-generate-admin"
+  ],
+  "_resolved": "https://registry.npmjs.org/strapi-admin/-/strapi-admin-3.0.0-alpha.25.2.tgz",
+  "_shasum": "1d8837c95c2a364ce1b495522a70804cec2f6e80",
+  "_shrinkwrap": null,
+  "_spec": "strapi-admin@3.0.0-alpha.25.2",
+  "_where": "/usr/local/lib/node_modules/strapi/node_modules/strapi-generate-admin",
+  "author": {
+    "name": "Strapi"
+  },
+  "bugs": {
+    "url": "https://github.com/strapi/strapi-admin/issues"
+  },
+  "dependencies": {
+    "intl": "^1.2.5",
+    "react-ga": "^2.4.1",
+    "redux": "^4.0.1",
+    "remove-markdown": "^0.2.2",
+    "shelljs": "^0.7.8",
+    "video-react": "^0.13.2"
+  },
+  "description": "Strapi Admin",
+  "devDependencies": {
+    "cross-env": "^5.0.5",
+    "sanitize.css": "^4.1.0",
+    "strapi-helper-plugin": "3.0.0-alpha.25.2",
+    "strapi-utils": "3.0.0-alpha.25.2"
+  },
+  "directories": {},
+  "dist": {
+    "fileCount": 451,
+    "integrity": "sha512-B8mB4h32BBW2n6rriOUIKb9J9/bFBw71loVRsSLKJM98g4eh2+POAvPPOypHx5byIb5xt8t3RgWGIcdML20CSA==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcjCkuCRA9TVsSAnZWagAA8T4P/0EEK9WwpLumcSuTNBK6\nWHkq4RWR82AeGtTe2SganClOuOZyESMT7diutBMsZbaAfj0fXNlEYf8teLTP\nHxZ3TfDBgTYqRiQZJI7S/IWtxAWz6vazG/v/VC+2+6rpFSd1qvWeQbVWOkBq\nSwtHeTb07V5KqzXNd1Ei75ob5/LZps7uFLGg6JTGEUFwd1wwSu8GoNd1edO2\nwDGcf0VROt/E9NF9U3ioNGLvbovB06TodztoZAPad/gtBImhlIE1Inb3/0FA\nHlSk662q889LHUOjPyOpFdNL+rgGekT0n+3NS1oRdLOJdmm24LKiKyvX1zER\nsoUgNX869fs4I9fruvPMHH7nhSoz71o5COLei87xzZT60cbCbSeKlng45m8w\n8HXKPaxUaKZ25TtLbMfH+GXzu8WpqB67sW2+Y0DJSJHGLwhQb+IOrlaA/LIN\nuo9nZmyktun0fG5zEoMTa/n2Jjs9nTtpMsM/At1J09E23ePw3qcn0lhkrQtx\nCKL8OYz3O/Nu40/bSsd+DQi4ACBQ/SDcJ/8jPjFwjT/tn0SsauMeY9vYIt5v\nvYu1n/Kk4MpqgK64h6loH7mknCihdbZJly1N/BVtn2NDrd3HqvC21hk9hRmJ\nmtOeTRSkqcPEdw/f0pFeu7FJD8cAv8HiC9jtlk15EFJRFMmoLaCfigH+lI/h\nR+8F\r\n=YEmc\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "1d8837c95c2a364ce1b495522a70804cec2f6e80",
+    "tarball": "https://registry.npmjs.org/strapi-admin/-/strapi-admin-3.0.0-alpha.25.2.tgz",
+    "unpackedSize": 27212144
+  },
+  "engines": {
+    "node": ">= 10.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "homepage": "https://github.com/strapi/strapi-admin#readme",
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "adeve",
+      "email": "deve.alexandre@gmail.com"
+    },
+    {
+      "name": "aurelsicoko",
+      "email": "aurelsicoko@gmail.com"
+    },
+    {
+      "name": "lauriejim",
+      "email": "j.laurie6993@gmail.com"
+    },
+    {
+      "name": "pierreburgy",
+      "email": "pierre.burgy@gmail.com"
+    },
+    {
+      "name": "soupette",
+      "email": "cyril.lpz@gmail.com"
+    }
+  ],
+  "name": "strapi-admin",
+  "optionalDependencies": {},
+  "readme": "# Strapi built-in admin panel\n\n## Description\n\nTODO\n\n## Contribute\n\n### Setup\n\nCreate a new Strapi project: `strapi new myApp`.\n\nGo in your project: `cd myApp`.\n\nRemove the generated admin panel: `rm -rf admin`.\n\nCreate a symlink in order to be able to easily develop the admin panel from your generated\nStrapi application: `ln -s /usr/local/lib/node_modules/strapi-generate-admin admin`\n(supposing `/usr/local/lib/node_modules` is your global node modules folder).\n\n### Development\n\nStart the React application: `cd myApp/admin`, then `npm start`.\n\nThe admin panel should now be available at [http://localhost:4000](http://localhost:4000).\n\n### Build\n\nIn order to check your updates, you can build the admin panel: `cd myApp`, then `npm run build`.\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/strapi/strapi-admin.git"
+  },
+  "scripts": {
+    "analyze": "node ./node_modules/strapi-helper-plugin/lib/internals/scripts/analyze.js",
+    "analyze:clean": "node ./node_modules/strapi-helper-plugin/node_modules/.bin/rimraf stats.json",
+    "build": "cross-env APP_PATH=$APP_PATH npm run build:dll && cross-env NODE_ENV=production IS_ADMIN=true ./node_modules/strapi-helper-plugin/node_modules/.bin/webpack --config ./node_modules/strapi-helper-plugin/lib/internals/webpack/webpack.prod.babel.js --color -p --progress",
+    "build:clean": "cross-env node ./node_modules/strapi-helper-plugin/node_modules/.bin/rimraf admin/build",
+    "build:dev": "cross-env npm run build:dll && NODE_ENV=development IS_ADMIN=true node ./node_modules/strapi-helper-plugin/node_modules/.bin/webpack --config ./node_modules/strapi-helper-plugin/lib/internals/webpack/webpack.prod.babel.js --color -p --progress",
+    "build:dll": "cross-env APP_PATH=$APP_PATH NODE_ENV=production IS_ADMIN=true ./node_modules/strapi-helper-plugin/node_modules/.bin/webpack --config ./node_modules/strapi-helper-plugin/lib/internals/webpack/webpack.dll.babel.js --color -p --progress",
+    "generate": "node ./node_modules/strapi-helper-plugin/node_modules/.bin/plop --plopfile ./node_modules/strapi-helper-plugin/lib/internals/generators/index.js",
+    "preanalyze": "npm run analyze:clean",
+    "prebuild": "cross-env NODE_ENV=production IS_ADMIN=true node ./node_modules/strapi-helper-plugin/lib/internals/scripts/loadAdminConfigurations.js",
+    "prepublishOnly": "IS_MONOREPO=true npm run build",
+    "presetup": "node ./scripts/preSetup.js",
+    "prestart": "cross-env NODE_ENV=development PORT=4000 IS_ADMIN=true node ./node_modules/strapi-helper-plugin/lib/internals/scripts/loadAdminConfigurations.js",
+    "prettier": "node ./node_modules/strapi-helper-plugin/node_modules/.bin/prettier --single-quote --trailing-comma es5 --write \"{admin,__{tests,mocks}__}/**/*.js\"",
+    "setup": "node ./scripts/setup.js",
+    "start": "cross-env NODE_ENV=development PORT=4000 IS_ADMIN=true node ./node_modules/strapi-helper-plugin/lib/server",
+    "test": "echo \"no tests yet\""
+  },
+  "version": "3.0.0-alpha.25.2"
+}
